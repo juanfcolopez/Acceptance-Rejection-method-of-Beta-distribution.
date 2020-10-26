@@ -1,1 +1,0 @@
-# Acceptance-Rejection-method-of-Beta-distribution.
